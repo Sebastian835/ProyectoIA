@@ -1,0 +1,5 @@
+train: C:\Users\sebas\Desktop\Proyecto_IA\Data2\train\
+val: C:\Users\sebas\Desktop\Proyecto_IA\Data2\val\
+test:
+nc: 1
+names: ["pistol"]
